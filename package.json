@@ -1,8 +1,8 @@
 {
-  "name": "metalsmith-metadata",
-  "description": "A metalsmith plugin to load global metadata from files.",
-  "repository": "git://github.com/segmentio/metalsmith-metadata.git",
-  "version": "0.0.3",
+  "name": "metalsmith-fs-metadata",
+  "description": "A metalsmith plugin to load global metadata from files relative to the root folder.",
+  "repository": "git://github.com/dw-buildit/metalsmith-fs-metadata.git",
+  "version": "0.0.4",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
